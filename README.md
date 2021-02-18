@@ -4,4 +4,10 @@ When beginning a career in data science, one often wonders what programming tool
 
 This project uses a subset of the 2017 Kaggle Machine Learning and Data Science Survey dataset.
 
+In this notebook, I will be using the following packages: 
+1. tidyverse
+2. dplyr
+3. tidyr
+4. ggplot2
+
 ![](/images/kaggle.png)
