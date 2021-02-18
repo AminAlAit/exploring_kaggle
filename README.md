@@ -10,4 +10,4 @@ In this notebook, I will be using the following packages:
 3. tidyr
 4. ggplot2
 
-![](/images/kaggle.png)
+![](/images/Kaggle.png)
